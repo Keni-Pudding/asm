@@ -1,0 +1,94 @@
+{
+  "sanpham": [
+    {
+      "image": "images/1.jpg",
+      "ten": "ten 1",
+      "gia": 500,
+      "id": "1"
+    },
+    {
+      "image": "images/2.jpg",
+      "ten": "ten 2",
+      "gia": 500,
+      "id": "2"
+    },
+    {
+      "image": "images/3.jpg",
+      "ten": "ten 3",
+      "gia": 500,
+      "id": "3"
+    },
+    {
+      "image": "images/5.jpg",
+      "ten": "ten 4",
+      "gia": 500,
+      "id": "4"
+    },
+    {
+      "id": "7",
+      "ten": "2",
+      "gia": "1000",
+      "image": "images/11.jpg"
+    },
+    {
+      "id": "88",
+      "ten": "Nma",
+      "gia": "128312",
+      "image": "images/12.jpg"
+    },
+    {
+      "id": "881",
+      "ten": "a",
+      "gia": "a",
+      "image": "images/11.jpg"
+    },
+    {
+      "id": "a1",
+      "ten": "aa",
+      "gia": "a",
+      "image": "images/10.jpg"
+    },
+    {
+      "id": "88891",
+      "ten": "1238",
+      "gia": "AKLSJD",
+      "image": "images/8.jpg"
+    },
+    {
+      "id": "a7",
+      "ten": "uquq",
+      "gia": "jasdj",
+      "image": "images/9.jpg"
+    },
+    {
+      "id": "m",
+      "ten": "a",
+      "gia": "a",
+      "image": "images/12.jpg"
+    },
+    {
+      "id": "a",
+      "ten": "a",
+      "gia": "a",
+      "image": "images/2.jpg"
+    },
+    {
+      "id": "41",
+      "ten": "aaa",
+      "gia": "1",
+      "image": "images/2.jpg"
+    },
+    {
+      "id": "5",
+      "ten": "434",
+      "gia": "123",
+      "image": "images/5.jpg"
+    },
+    {
+      "id": "9812389",
+      "ten": "aewais",
+      "gia": "askldj",
+      "image": "images/11.jpg"
+    }
+  ]
+}

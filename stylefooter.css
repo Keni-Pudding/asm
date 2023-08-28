@@ -1,0 +1,23 @@
+
+#footer{
+    width: 100%;
+    background-color: rgb(25 17 11);
+    
+    font-family: Louis Vuitton Web;
+    color: rgb(255 255 255);
+    padding: 0px;
+    line-height: 100px;
+}
+.logo{
+    margin-left: 34%;
+    font-size: 34px;
+}
+#logo{
+    border-bottom: solid 1px white;
+}
+
+#textFooter{
+    text-align: center;
+   
+
+}
